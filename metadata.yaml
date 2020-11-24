@@ -1,0 +1,5 @@
+homepage: "https://getbuybox.com"
+documentation: "https://help.getbuybox.com"
+versions:
+  - sha: a4a02bb43a66447a542f91243e00eaaf9daaccb9
+    changeNotes: Initial release.
