@@ -1,5 +1,5 @@
 homepage: "https://getbuybox.com"
 documentation: "https://help.getbuybox.com"
 versions:
-  - sha: 07faf6eebc7a112f214f5565ac16cc6e08e1fa24
+  - sha: 8aab4ddd23ff0322d86d5f68841c264566cd57fe
     changeNotes: Initial release.
