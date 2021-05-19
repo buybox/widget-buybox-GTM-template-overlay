@@ -1,6 +1,8 @@
 homepage: "https://getbuybox.com"
 documentation: "https://help.getbuybox.com/pl/articles/4835330-implementacja-widgetu-za-pomoca-google-tag-manager"
 versions:
+  - sha: 307dd2af646cd5667f66e2d9b2c4ff40d064826f
+    changeNotes: Add widget language field.
   - sha: e75041cc78ccc83af8758ed36952106bba8e6a6d
     changeNotes: Add widget version field.
   - sha: f9614e644ccade0c62071d82ea291296b92634dd
