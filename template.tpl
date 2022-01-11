@@ -314,6 +314,28 @@ ___TEMPLATE_PARAMETERS___
         "isUnique": false
       },
       {
+        "type": "SELECT",
+        "name": "bb-sort",
+        "displayName": "Sort order",
+        "selectItems": [
+          {
+            "value": "ascending",
+            "displayValue": "Ascending"
+          },
+          {
+            "value": "descending",
+            "displayValue": "Descending"
+          },
+          {
+            "value": "random",
+            "displayValue": "Random"
+          }
+        ],
+        "simpleValueType": true,
+        "notSetText": "Default",
+        "help": "Sorting offers will respect shops' weight order configuration"
+      },
+      {
         "param": {
           "type": "TEXT",
           "name": "bb-var-abpar1",
