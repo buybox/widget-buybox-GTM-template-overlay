@@ -1,6 +1,8 @@
 homepage: "https://getbuybox.com"
 documentation: "https://help.getbuybox.com/pl/articles/4835330-implementacja-widgetu-za-pomoca-google-tag-manager"
 versions:
+  - sha: 39eca622bcbfa8f0f5c42c82b55674f4c4446ae5
+    changeNotes: Add missing override configs.
   - sha: 4d9928c780e2e490e90f12d5f1b3532721244d40
     changeNotes: Add sort order field.
   - sha: 49bad4aefd6213007a18dfb5290b519991b3e574
